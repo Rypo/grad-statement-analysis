@@ -3,9 +3,10 @@
 */**/.ipynb_checkpoints
 __pycache__
 _drafts
+todo.md
 # data and models
 saves
-proc_data
+data
 databunches
 grad_scrape/gradsop/data
 grad_scrape/gradsop/settings.py
