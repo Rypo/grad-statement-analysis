@@ -5,10 +5,10 @@ The documents were scraped from a public forum in which a prospective applicant 
 
 ## File Descriptions
 ### Notebooks
-* [prelim_analysis.ipynb](https://github.com/Rypo/grad-statement-analysis/blob/master/prelim_analysis.ipynb) - The initial, general-purpose notebook used in the analysis. It features basic EDA, sentiment analysis, FastText and Doc2vec embeddings, and LDA, NMF, and LSA models.
-* [preprocessing.ipynb](https://github.com/Rypo/grad-statement-analysis/blob/master/preprocessing.ipynb) - Demonstrates the multiple approaches taken to preprocess the text into various forms to meet the needs of particular models.
-* [kpe_summarization.ipynb](https://github.com/Rypo/grad-statement-analysis/blob/master/kpe_summarization.ipynb) - Applies several forms of Key-phase Extraction and text summarization to user feedback and uses basic heuristics to find commonalities across the documents.
-* [lang_models.ipynb](https://github.com/Rypo/grad-statement-analysis/blob/master/lang_models.ipynb) - Builds ULMFiT language models on the subsets of the corpus. 
+* [prelim_analysis.ipynb](https://github.com/Rypo/grad-statement-analysis/blob/master/prelim_analysis.ipynb) - The initial, general-purpose notebook used in the analysis. It features basic EDA, sentiment analysis, FastText and Doc2vec embeddings, and LDA, NMF, and LSA models. [[nbviewer](https://nbviewer.jupyter.org/github/Rypo/grad-statement-analysis/blob/master/prelim_analysis.ipynb)]
+* [preprocessing.ipynb](https://github.com/Rypo/grad-statement-analysis/blob/master/preprocessing.ipynb) - Demonstrates the multiple approaches taken to preprocess the text into various forms to meet the needs of particular models. [[nbviewer](https://nbviewer.jupyter.org/github/Rypo/grad-statement-analysis/blob/master/preprocessing.ipynb)]
+* [kpe_summarization.ipynb](https://github.com/Rypo/grad-statement-analysis/blob/master/kpe_summarization.ipynb) - Applies several forms of Key-phase Extraction and text summarization to user feedback and uses basic heuristics to find commonalities across the documents. [[nbviewer](https://nbviewer.jupyter.org/github/Rypo/grad-statement-analysis/blob/master/kpe_summarization.ipynb)]
+* [lang_models.ipynb](https://github.com/Rypo/grad-statement-analysis/blob/master/lang_models.ipynb) - Builds ULMFiT language models on the subsets of the corpus. [[nbviewer](https://nbviewer.jupyter.org/github/Rypo/grad-statement-analysis/blob/master/lang_models.ipynb)]
 
 **Note**: The nbextension [Freeze](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/freeze/readme.html) was used liberally throughout each notebook. Without this, notebooks will likely not function sequentially.
 
